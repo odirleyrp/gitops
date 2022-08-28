@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: odirleyrp/gitops
-  newTag: xptodss
+  newTag: 14420444ff781b099fef7394faf1003d09c286e4
