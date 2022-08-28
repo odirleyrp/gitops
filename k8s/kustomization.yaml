@@ -4,12 +4,12 @@ kind: Kustomization
 resources:
 - deployment.yaml
 - service.yaml
-
+#
 images:
 - name: goserver
   newName: odirleyrp/gitops
 <<<<<<< HEAD
-  newTag: segue
+  newTag: vaipalmeirasdhhh
 =======
   newTag: 34e3cd201b36407c30a09f739fae432241ce7452
 >>>>>>> 748b4ccfe3bdf6d0e50f27c84e7c95d74dfd7e1b
